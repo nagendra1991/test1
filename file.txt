@@ -1,1 +1,2 @@
-hello, this is my test file.
+hello, this is my test file
+I am practicing Git.
